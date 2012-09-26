@@ -1,0 +1,1770 @@
+2012-08-30 10:17:31    create css/320andup-scss-compass.css 
+2012-08-30 10:18:55 overwrite 320andup-scss-compass.css 
+2012-08-30 10:31:15 overwrite 320andup-scss-compass.css 
+2012-08-30 10:37:52     error scss-compass/320andup-scss-compass.scss (Line 38 of scss-compass/_mixins_media_queries.scss: Invalid CSS after "...ndheld-portrait": expected "{", was "@media only scr...")
+2012-08-30 10:37:52 overwrite 320andup-scss-compass.css 
+2012-08-30 10:41:31 overwrite 320andup-scss-compass.css 
+2012-08-30 10:44:15 overwrite 320andup-scss-compass.css 
+2012-08-30 10:55:19     error scss-compass/320andup-scss-compass.scss (Line 8: File to import not found or unreadable: respond-to.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:55:19 overwrite 320andup-scss-compass.css 
+2012-08-30 10:59:14     error scss-compass/320andup-scss-compass.scss (Line 8: File to import not found or unreadable: respond-to.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:14 overwrite 320andup-scss-compass.css 
+2012-08-30 10:59:14     error scss-compass/320andup-scss-compass.scss (Line 8: File to import not found or unreadable: respond-to.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:14 identical 320andup-scss-compass.css 
+2012-08-30 10:59:14     error scss-compass/320andup-scss-compass.scss (Line 8: File to import not found or unreadable: respond-to.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:14 identical 320andup-scss-compass.css 
+2012-08-30 10:59:14     error scss-compass/320andup-scss-compass.scss (Line 8: File to import not found or unreadable: respond-to.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:14 identical 320andup-scss-compass.css 
+2012-08-30 10:59:14     error scss-compass/320andup-scss-compass.scss (Line 8: File to import not found or unreadable: respond-to.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:14 identical 320andup-scss-compass.css 
+2012-08-30 10:59:14     error scss-compass/320andup-scss-compass.scss (Line 8: File to import not found or unreadable: respond-to.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:14 identical 320andup-scss-compass.css 
+2012-08-30 10:59:14     error scss-compass/320andup-scss-compass.scss (Line 8: File to import not found or unreadable: respond-to.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:14 overwrite 320andup-scss-compass.css 
+2012-08-30 10:59:14     error scss-compass/320andup-scss-compass.scss (Line 8: File to import not found or unreadable: respond-to.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:14 identical 320andup-scss-compass.css 
+2012-08-30 10:59:14     error scss-compass/320andup-scss-compass.scss (Line 8: File to import not found or unreadable: respond-to.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:14 identical 320andup-scss-compass.css 
+2012-08-30 10:59:14     error scss-compass/320andup-scss-compass.scss (Line 8: File to import not found or unreadable: respond-to.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:14 identical 320andup-scss-compass.css 
+2012-08-30 10:59:14     error scss-compass/320andup-scss-compass.scss (Line 8: File to import not found or unreadable: respond-to.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:14 identical 320andup-scss-compass.css 
+2012-08-30 10:59:14     error scss-compass/320andup-scss-compass.scss (Line 8: File to import not found or unreadable: respond-to.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:14 identical 320andup-scss-compass.css 
+2012-08-30 10:59:25 overwrite 320andup-scss-compass.css 
+2012-08-30 10:59:55     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:55 overwrite 320andup-scss-compass.css 
+2012-08-30 10:59:55     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:55 identical 320andup-scss-compass.css 
+2012-08-30 10:59:56     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:56 identical 320andup-scss-compass.css 
+2012-08-30 10:59:56     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:56 identical 320andup-scss-compass.css 
+2012-08-30 10:59:56     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:56 identical 320andup-scss-compass.css 
+2012-08-30 10:59:56     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:56 identical 320andup-scss-compass.css 
+2012-08-30 10:59:57     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:57 identical 320andup-scss-compass.css 
+2012-08-30 10:59:57     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:57 identical 320andup-scss-compass.css 
+2012-08-30 10:59:57     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:57 identical 320andup-scss-compass.css 
+2012-08-30 10:59:57     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:57 identical 320andup-scss-compass.css 
+2012-08-30 10:59:58     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:58 identical 320andup-scss-compass.css 
+2012-08-30 10:59:58     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:58 identical 320andup-scss-compass.css 
+2012-08-30 10:59:58     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:58 identical 320andup-scss-compass.css 
+2012-08-30 10:59:58     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:58 identical 320andup-scss-compass.css 
+2012-08-30 10:59:59     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:59 identical 320andup-scss-compass.css 
+2012-08-30 10:59:59     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:59 identical 320andup-scss-compass.css 
+2012-08-30 10:59:59     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:59 overwrite 320andup-scss-compass.css 
+2012-08-30 10:59:59     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 10:59:59 identical 320andup-scss-compass.css 
+2012-08-30 11:00:00     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 11:00:00 identical 320andup-scss-compass.css 
+2012-08-30 11:00:00     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 11:00:00 identical 320andup-scss-compass.css 
+2012-08-30 11:00:00     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 11:00:00 identical 320andup-scss-compass.css 
+2012-08-30 11:00:00     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 11:00:00 identical 320andup-scss-compass.css 
+2012-08-30 11:00:00     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 11:00:00 identical 320andup-scss-compass.css 
+2012-08-30 11:00:01     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 11:00:01 identical 320andup-scss-compass.css 
+2012-08-30 11:00:01     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 11:00:01 identical 320andup-scss-compass.css 
+2012-08-30 11:00:01     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 11:00:01 identical 320andup-scss-compass.css 
+2012-08-30 11:00:01     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 11:00:01 identical 320andup-scss-compass.css 
+2012-08-30 11:00:02     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 11:00:02 identical 320andup-scss-compass.css 
+2012-08-30 11:00:02     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 11:00:02 identical 320andup-scss-compass.css 
+2012-08-30 11:00:02     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 11:00:02 identical 320andup-scss-compass.css 
+2012-08-30 11:00:02     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 11:00:02 identical 320andup-scss-compass.css 
+2012-08-30 11:00:03     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 11:00:03 identical 320andup-scss-compass.css 
+2012-08-30 11:00:48     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: partial/reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 11:00:48 overwrite 320andup-scss-compass.css 
+2012-08-30 11:01:00     error scss-compass/320andup-scss-compass.scss (Line 16: File to import not found or unreadable: reset.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 11:01:00 overwrite 320andup-scss-compass.css 
+2012-08-30 11:01:15     error scss-compass/320andup-scss-compass.scss (Line 19: File to import not found or unreadable: partial/variables.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 11:01:15 overwrite 320andup-scss-compass.css 
+2012-08-30 11:01:38 overwrite 320andup-scss-compass.css 
+2012-08-30 11:01:45 identical 320andup-scss-compass.css 
+2012-08-30 11:09:54     error scss-compass/320andup-scss-compass.scss (Line 8: File to import not found or unreadable: respond-to.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 11:09:54 overwrite 320andup-scss-compass.css 
+2012-08-30 11:10:04     error scss-compass/320andup-scss-compass.scss (Line 8: File to import not found or unreadable: respond-to.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 11:10:04 identical 320andup-scss-compass.css 
+2012-08-30 11:10:45     error scss-compass/320andup-scss-compass.scss (Line 8: File to import not found or unreadable: respond-to.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  Compass::SpriteImporter)
+2012-08-30 11:10:45 identical 320andup-scss-compass.css 
+2012-08-30 11:43:45     error scss-compass/320andup-scss-compass.scss (Line 8: File to import not found or unreadable: respond-to.
+Load paths:
+  C:/Projects/Roadhouse/Mobile/scss-compass
+  C:/Program Files (x86)/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  C:/Program Files (x86)/fire.app/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  C:/Program Files (x86)/fire.app/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  C:/Program Files (x86)/fire.app/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  C:/Program Files (x86)/fire.app/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  C:/Program Files (x86)/fire.app/lib/ruby/compass_extensions/thomas-mcdonald-bootstrap-sass-831f25b/vendor/assets/stylesheets
+  C:/Program Files (x86)/fire.app/lib/ruby/compass_extensions/susy-1.0/sass
+  C:/Program Files (x86)/fire.app/lib/ruby/common/sassy-math-1.2/stylesheets
+  C:/Program Files (x86)/fire.app/lib/ruby/common/modular-scale-1.0.2/stylesheets
+  C:/Program Files (x86)/fire.app/lib/ruby/compass_extensions/zurb-foundation-3.0.9/scss
+  Compass::SpriteImporter)
+2012-08-30 11:43:45 overwrite css/320andup-scss-compass.css 
+2012-08-30 11:43:59 overwrite css/320andup-scss-compass.css 
+2012-08-30 11:54:47     error scss/roadhouse_mobile.scss (Line 4 of scss/breakpoint/_helpers.scss: Invalid CSS after "": expected selector or at-rule, was "<!DOCTYPE html>")
+2012-08-30 11:54:47 overwrite css/roadhouse_mobile.css 
+2012-08-30 11:54:50     error scss/roadhouse_mobile.scss (Line 4 of scss/breakpoint/_helpers.scss: Invalid CSS after "": expected selector or at-rule, was "<!DOCTYPE html>")
+2012-08-30 11:54:50 identical css/roadhouse_mobile.css 
+2012-08-30 11:55:16     error scss/roadhouse_mobile.scss (Line 4 of scss/breakpoint/_helpers.scss: Invalid CSS after "": expected selector or at-rule, was "<!DOCTYPE html>")
+2012-08-30 11:55:16 identical css/roadhouse_mobile.css 
+2012-08-30 11:56:07     error scss/roadhouse_mobile.scss (Line 4 of scss/breakpoint/_helpers.scss: Invalid CSS after "": expected selector or at-rule, was "<!DOCTYPE html>")
+2012-08-30 11:56:07 identical css/roadhouse_mobile.css 
+2012-08-30 11:56:52     error scss/roadhouse_mobile.scss (Line 4 of scss/breakpoint/_context.scss: Invalid CSS after "": expected selector or at-rule, was "<!DOCTYPE html>")
+2012-08-30 11:56:52 overwrite css/roadhouse_mobile.css 
+2012-08-30 11:57:07 overwrite css/roadhouse_mobile.css 
+2012-08-30 11:57:18 identical css/roadhouse_mobile.css 
+2012-08-30 12:00:34     error scss/roadhouse_mobile.scss (Line 4 of scss/_respond-to.scss: Invalid CSS after "": expected selector or at-rule, was "<!DOCTYPE html>")
+2012-08-30 12:00:34 overwrite css/roadhouse_mobile.css 
+2012-08-30 12:00:49 overwrite css/roadhouse_mobile.css 
+2012-08-30 12:02:39 overwrite css/roadhouse_mobile.css 
+2012-08-30 12:02:48 overwrite css/roadhouse_mobile.css 
+2012-08-30 12:06:30     error scss/roadhouse_mobile.scss (Line 60 of scss/_breakpoint.scss: () isn't a valid CSS value.)
+2012-08-30 12:06:30 overwrite css/roadhouse_mobile.css 
+2012-08-30 12:06:43     error scss/roadhouse_mobile.scss (Line 60 of scss/_breakpoint.scss: () isn't a valid CSS value.)
+2012-08-30 12:06:43 identical css/roadhouse_mobile.css 
+2012-08-30 12:06:51 overwrite css/roadhouse_mobile.css 
+2012-08-30 12:07:51 identical css/roadhouse_mobile.css 
+2012-08-30 12:08:04 overwrite css/roadhouse_mobile.css 
+2012-08-30 12:09:07 overwrite css/roadhouse_mobile.css 
+2012-08-30 12:09:39 overwrite css/roadhouse_mobile.css 
+2012-08-30 12:10:17     error scss/roadhouse_mobile.scss (Line 4 of scss/_respond-to.scss: Invalid CSS after "/": expected identifier, was "@import 'breakp...")
+2012-08-30 12:10:17 overwrite css/roadhouse_mobile.css 
+2012-08-30 12:10:19     error scss/roadhouse_mobile.scss (Line 14 of scss/partials/_page.scss: Undefined variable: "$breakpoint-default-media".)
+2012-08-30 12:10:19 overwrite css/roadhouse_mobile.css 
+2012-08-30 12:10:36 overwrite css/roadhouse_mobile.css 
+2012-08-30 12:54:53 overwrite css/roadhouse_mobile.css 
+2012-08-30 13:13:38 overwrite css/roadhouse_mobile.css 
+2012-08-30 13:14:19 overwrite css/roadhouse_mobile.css 
+2012-08-30 13:14:49 overwrite css/roadhouse_mobile.css 
+2012-08-30 13:18:52     error scss/roadhouse_mobile.scss (Line 60 of scss/_breakpoint.scss: () isn't a valid CSS value.)
+2012-08-30 13:18:52 overwrite css/roadhouse_mobile.css 
+2012-08-30 13:19:10 overwrite css/roadhouse_mobile.css 
+2012-08-30 13:19:46 overwrite css/roadhouse_mobile.css 
+2012-08-30 13:20:13 overwrite css/roadhouse_mobile.css 
+2012-08-30 13:20:56 identical css/roadhouse_mobile.css 
+2012-08-30 13:27:50     error scss/roadhouse_mobile.scss (Line 3 of scss/_mixins_media_queries.scss: Undefined variable: "$device".)
+2012-08-30 13:27:50 overwrite css/roadhouse_mobile.css 
+2012-08-30 13:28:24     error scss/roadhouse_mobile.scss (Line 3 of scss/_mixins_media_queries.scss: Undefined variable: "$device".)
+2012-08-30 13:28:24 identical css/roadhouse_mobile.css 
+2012-08-30 13:28:59     error scss/roadhouse_mobile.scss (Line 3 of scss/_mixins_media_queries.scss: Undefined variable: "$device".)
+2012-08-30 13:28:59 identical css/roadhouse_mobile.css 
+2012-08-30 13:30:07 overwrite css/roadhouse_mobile.css 
+2012-08-30 13:30:43 overwrite css/roadhouse_mobile.css 
+2012-08-30 13:31:10 overwrite css/roadhouse_mobile.css 
+2012-08-30 13:36:29 identical css/roadhouse_mobile.css 
+2012-08-30 13:39:59     error scss/roadhouse_mobile.scss (Line 32 of scss/partials/_page.scss: Invalid CSS after "		@include ": expected identifier, was ";")
+2012-08-30 13:39:59 overwrite css/roadhouse_mobile.css 
+2012-08-30 13:40:37 overwrite css/roadhouse_mobile.css 
+2012-08-30 13:41:01 overwrite css/roadhouse_mobile.css 
+2012-08-30 13:41:19 overwrite css/roadhouse_mobile.css 
+2012-08-30 13:41:41 overwrite css/roadhouse_mobile.css 
+2012-08-30 13:46:40 overwrite css/roadhouse_mobile.css 
+2012-08-30 13:47:47 overwrite css/roadhouse_mobile.css 
+2012-08-30 13:48:34 identical css/roadhouse_mobile.css 
+2012-08-30 13:49:01 overwrite css/roadhouse_mobile.css 
+2012-08-30 13:50:23 overwrite css/roadhouse_mobile.css 
+2012-08-30 13:50:43 overwrite css/roadhouse_mobile.css 
+2012-08-30 13:52:50 overwrite css/roadhouse_mobile.css 
+2012-08-30 13:53:13 identical css/roadhouse_mobile.css 
+2012-08-30 14:20:08 overwrite css/roadhouse_mobile.css 
+2012-08-30 14:26:00 overwrite css/roadhouse_mobile.css 
+2012-08-30 14:43:38 overwrite css/roadhouse_mobile.css 
+2012-08-30 14:44:07 overwrite css/roadhouse_mobile.css 
+2012-08-30 14:44:15 overwrite css/roadhouse_mobile.css 
+2012-08-30 14:44:59 overwrite css/roadhouse_mobile.css 
+2012-08-30 15:59:05 overwrite css/roadhouse_mobile.css 
+2012-08-30 15:59:17 overwrite css/roadhouse_mobile.css 
+2012-08-30 16:38:04 identical css/roadhouse_mobile.css 
+2012-08-30 16:39:50 identical css/roadhouse_mobile.css 
+2012-08-30 16:40:47 identical css/roadhouse_mobile.css 
+2012-08-30 16:41:05 overwrite css/roadhouse_mobile.css 
+2012-08-30 16:41:28 overwrite css/roadhouse_mobile.css 
+2012-08-30 16:41:53 overwrite css/roadhouse_mobile.css 
+2012-08-30 16:53:34 overwrite css/roadhouse_mobile.css 
+2012-08-30 16:54:13 overwrite css/roadhouse_mobile.css 
+2012-08-30 16:55:13 overwrite css/roadhouse_mobile.css 
+2012-08-30 16:55:32 overwrite css/roadhouse_mobile.css 
+2012-08-30 16:56:08 overwrite css/roadhouse_mobile.css 
+2012-08-30 16:56:55 identical css/roadhouse_mobile.css 
+2012-08-30 16:58:20 overwrite css/roadhouse_mobile.css 
+2012-08-30 16:58:51 overwrite css/roadhouse_mobile.css 
+2012-08-30 16:59:08 overwrite css/roadhouse_mobile.css 
+2012-08-30 16:59:25 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:00:56 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:01:01 identical css/roadhouse_mobile.css 
+2012-08-30 17:02:20 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:04:01 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:04:11 identical css/roadhouse_mobile.css 
+2012-08-30 17:04:19 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:04:25 identical css/roadhouse_mobile.css 
+2012-08-30 17:05:44 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:05:53 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:12:49 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:12:59 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:13:50 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:17:52 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:18:49 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:19:26 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:20:11 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:21:44 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:22:08 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:22:18 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:22:31 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:23:11 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:27:44 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:27:47 identical css/roadhouse_mobile.css 
+2012-08-30 17:27:54 identical css/roadhouse_mobile.css 
+2012-08-30 17:28:14     error scss/roadhouse_mobile.scss (Line 31 of scss/partials/_page.scss: Invalid CSS after "			color:": expected expression (e.g. 1px, bold), was "@linkNavColor;")
+2012-08-30 17:28:14 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:28:31 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:28:48 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:31:27 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:31:47 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:33:08 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:35:21     error scss/roadhouse_mobile.scss (Line 21 of scss/partials/_page.scss: Invalid CSS after "	background-color": expected ";", was ": $navcolor;")
+2012-08-30 17:35:21 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:35:54     error scss/roadhouse_mobile.scss (Line 21 of scss/partials/_page.scss: Invalid CSS after "	background-color": expected ";", was ": $navcolor;")
+2012-08-30 17:35:54 identical css/roadhouse_mobile.css 
+2012-08-30 17:36:02     error scss/roadhouse_mobile.scss (Line 21 of scss/partials/_page.scss: Invalid CSS after "	background-color": expected ";", was ": $navcolor;")
+2012-08-30 17:36:02 identical css/roadhouse_mobile.css 
+2012-08-30 17:36:15 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:36:41 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:38:22 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:41:47     error scss/roadhouse_mobile.scss (Line 22 of scss/partials/_page.scss: Invalid CSS after "	border-bottom": expected ";", was ": 1px solid #60...")
+2012-08-30 17:41:47 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:41:50 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:42:03 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:44:17 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:44:31 overwrite css/roadhouse_mobile.css 
+2012-08-30 17:44:52 overwrite css/roadhouse_mobile.css 
+2012-08-31 08:26:21 identical css/roadhouse_mobile.css 
+2012-08-31 08:26:36 identical css/roadhouse_mobile.css 
+2012-08-31 08:29:27 overwrite css/roadhouse_mobile.css 
+2012-08-31 08:30:25 overwrite css/roadhouse_mobile.css 
+2012-08-31 09:16:15 overwrite css/roadhouse_mobile.css 
+2012-08-31 09:20:15 overwrite css/roadhouse_mobile.css 
+2012-08-31 09:23:40 overwrite css/roadhouse_mobile.css 
+2012-08-31 09:24:21 overwrite css/roadhouse_mobile.css 
+2012-08-31 09:25:15 overwrite css/roadhouse_mobile.css 
+2012-08-31 09:32:12 identical css/roadhouse_mobile.css 
+2012-08-31 09:34:54 overwrite css/roadhouse_mobile.css 
+2012-08-31 09:35:21 overwrite css/roadhouse_mobile.css 
+2012-08-31 09:35:39 overwrite css/roadhouse_mobile.css 
+2012-08-31 09:35:40 identical css/roadhouse_mobile.css 
+2012-08-31 09:36:45 overwrite css/roadhouse_mobile.css 
+2012-08-31 10:19:49 overwrite css/roadhouse_mobile.css 
+2012-08-31 10:20:21 overwrite css/roadhouse_mobile.css 
+2012-08-31 10:21:25 overwrite css/roadhouse_mobile.css 
+2012-08-31 10:23:31 overwrite css/roadhouse_mobile.css 
+2012-08-31 10:24:21 overwrite css/roadhouse_mobile.css 
+2012-08-31 10:24:24 overwrite css/roadhouse_mobile.css 
+2012-08-31 10:25:12 overwrite css/roadhouse_mobile.css 
+2012-08-31 10:26:03 overwrite css/roadhouse_mobile.css 
+2012-08-31 10:26:51 overwrite css/roadhouse_mobile.css 
+2012-08-31 10:28:39 overwrite css/roadhouse_mobile.css 
+2012-08-31 10:42:48 overwrite css/roadhouse_mobile.css 
+2012-08-31 11:03:49 overwrite css/roadhouse_mobile.css 
+2012-08-31 11:24:06 overwrite css/roadhouse_mobile.css 
+2012-08-31 11:24:07 overwrite css/roadhouse_mobile.css 
+2012-08-31 11:30:51 overwrite css/roadhouse_mobile.css 
+2012-08-31 11:30:55 overwrite css/roadhouse_mobile.css 
+2012-08-31 11:31:15 overwrite css/roadhouse_mobile.css 
+2012-08-31 11:31:31 overwrite css/roadhouse_mobile.css 
+2012-08-31 11:31:55 overwrite css/roadhouse_mobile.css 
+2012-08-31 11:32:19 overwrite css/roadhouse_mobile.css 
+2012-08-31 11:32:57 overwrite css/roadhouse_mobile.css 
+2012-08-31 11:33:28 overwrite css/roadhouse_mobile.css 
+2012-08-31 11:33:37 overwrite css/roadhouse_mobile.css 
+2012-08-31 11:43:30 overwrite css/roadhouse_mobile.css 
+2012-08-31 11:45:33 overwrite css/roadhouse_mobile.css 
+2012-08-31 11:55:18 overwrite css/roadhouse_mobile.css 
+2012-08-31 11:56:12 overwrite css/roadhouse_mobile.css 
+2012-08-31 11:57:15 identical css/roadhouse_mobile.css 
+2012-08-31 11:57:34 overwrite css/roadhouse_mobile.css 
+2012-08-31 12:09:10 overwrite css/roadhouse_mobile.css 
+2012-08-31 13:45:04 overwrite css/roadhouse_mobile.css 
+2012-08-31 13:46:04 overwrite css/roadhouse_mobile.css 
+2012-08-31 13:46:32 overwrite css/roadhouse_mobile.css 
+2012-08-31 13:46:43 overwrite css/roadhouse_mobile.css 
+2012-08-31 13:53:38     error scss/roadhouse_mobile.scss (Line 38 of scss/partials/_page.scss: Invalid CSS after "		width": expected "{", was "}")
+2012-08-31 13:53:38 overwrite css/roadhouse_mobile.css 
+2012-08-31 13:53:44 overwrite css/roadhouse_mobile.css 
+2012-08-31 13:54:07 overwrite css/roadhouse_mobile.css 
+2012-08-31 13:55:46 overwrite css/roadhouse_mobile.css 
+2012-08-31 13:57:07 overwrite css/roadhouse_mobile.css 
+2012-08-31 13:58:19 overwrite css/roadhouse_mobile.css 
+2012-08-31 13:58:32 identical css/roadhouse_mobile.css 
+2012-08-31 13:58:35 overwrite css/roadhouse_mobile.css 
+2012-08-31 14:09:49 overwrite css/roadhouse_mobile.css 
+2012-08-31 14:12:16 overwrite css/roadhouse_mobile.css 
+2012-08-31 14:12:43 overwrite css/roadhouse_mobile.css 
+2012-08-31 14:16:10 overwrite css/roadhouse_mobile.css 
+2012-08-31 14:25:44 overwrite css/roadhouse_mobile.css 
+2012-08-31 14:25:45 identical css/roadhouse_mobile.css 
+2012-08-31 14:28:53 overwrite css/roadhouse_mobile.css 
+2012-08-31 14:29:49 overwrite css/roadhouse_mobile.css 
+2012-08-31 14:30:44 identical css/roadhouse_mobile.css 
+2012-08-31 14:32:23 overwrite css/roadhouse_mobile.css 
+2012-08-31 14:33:20 overwrite css/roadhouse_mobile.css 
+2012-08-31 14:34:17 identical css/roadhouse_mobile.css 
+2012-08-31 14:39:45     error scss/roadhouse_mobile.scss (Line 78 of scss/partials/_page.scss: Invalid CSS after "		display": expected ";", was ":block;")
+2012-08-31 14:39:45 overwrite css/roadhouse_mobile.css 
+2012-08-31 14:40:02 overwrite css/roadhouse_mobile.css 
+2012-08-31 14:40:16 overwrite css/roadhouse_mobile.css 
+2012-08-31 14:40:50 overwrite css/roadhouse_mobile.css 
+2012-08-31 14:45:20 overwrite css/roadhouse_mobile.css 
+2012-08-31 15:03:31 overwrite css/roadhouse_mobile.css 
+2012-08-31 15:04:17 overwrite css/roadhouse_mobile.css 
+2012-08-31 15:04:26 overwrite css/roadhouse_mobile.css 
+2012-08-31 15:05:19 overwrite css/roadhouse_mobile.css 
+2012-08-31 15:08:35 overwrite css/roadhouse_mobile.css 
+2012-08-31 15:08:52 overwrite css/roadhouse_mobile.css 
+2012-08-31 15:08:56 identical css/roadhouse_mobile.css 
+2012-08-31 15:09:02 overwrite css/roadhouse_mobile.css 
+2012-08-31 15:44:59 overwrite css/roadhouse_mobile.css 
+2012-08-31 15:45:04 overwrite css/roadhouse_mobile.css 
+2012-08-31 15:49:14 overwrite css/roadhouse_mobile.css 
+2012-08-31 15:50:35 overwrite css/roadhouse_mobile.css 
+2012-08-31 15:51:34 overwrite css/roadhouse_mobile.css 
+2012-08-31 15:52:13 overwrite css/roadhouse_mobile.css 
+2012-08-31 15:52:32 overwrite css/roadhouse_mobile.css 
+2012-08-31 15:57:07 overwrite css/roadhouse_mobile.css 
+2012-08-31 15:57:37 overwrite css/roadhouse_mobile.css 
+2012-08-31 15:58:20 overwrite css/roadhouse_mobile.css 
+2012-08-31 15:58:26 overwrite css/roadhouse_mobile.css 
+2012-08-31 16:04:40 overwrite css/roadhouse_mobile.css 
+2012-08-31 16:05:01 overwrite css/roadhouse_mobile.css 
+2012-08-31 16:05:47 overwrite css/roadhouse_mobile.css 
+2012-08-31 16:06:04 overwrite css/roadhouse_mobile.css 
+2012-08-31 16:08:52 overwrite css/roadhouse_mobile.css 
+2012-08-31 16:09:13 overwrite css/roadhouse_mobile.css 
+2012-08-31 16:09:31 identical css/roadhouse_mobile.css 
+2012-08-31 16:37:18 overwrite css/roadhouse_mobile.css 
+2012-08-31 16:39:59 overwrite css/roadhouse_mobile.css 
+2012-08-31 16:46:11 overwrite css/roadhouse_mobile.css 
+2012-08-31 16:58:11 overwrite css/roadhouse_mobile.css 
+2012-08-31 16:59:02 overwrite css/roadhouse_mobile.css 
+2012-08-31 17:01:12 overwrite css/roadhouse_mobile.css 
+2012-08-31 17:02:05 overwrite css/roadhouse_mobile.css 
+2012-08-31 17:02:18 overwrite css/roadhouse_mobile.css 
+2012-08-31 17:02:59 overwrite css/roadhouse_mobile.css 
+2012-08-31 17:04:03 overwrite css/roadhouse_mobile.css 
+2012-08-31 17:04:47 overwrite css/roadhouse_mobile.css 
+2012-08-31 17:07:26 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:25:54 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:26:09 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:26:24 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:26:42 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:26:57 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:27:07 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:32:27 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:32:56 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:33:12 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:39:36 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:40:12 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:41:41 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:42:03 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:42:28     error scss/roadhouse_mobile.scss (Line 99 of scss/partials/_page.scss: Invalid CSS after "... 0 10px; 0 10px": expected "{", was ";")
+2012-09-03 08:42:28 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:42:33 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:42:45 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:43:12 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:44:03 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:44:13 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:44:36 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:44:48 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:45:34 identical css/roadhouse_mobile.css 
+2012-09-03 08:48:37 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:51:46     error scss/roadhouse_mobile.scss (Line 93 of scss/partials/_page.scss: Invalid CSS after "...webkit-gradient": expected "{", was "(linear, left t...")
+2012-09-03 08:51:46 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:52:06     error scss/roadhouse_mobile.scss (Line 93 of scss/partials/_page.scss: Invalid CSS after "...webkit-gradient": expected "{", was "(linear, left t...")
+2012-09-03 08:52:06 identical css/roadhouse_mobile.css 
+2012-09-03 08:52:34 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:53:12 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:54:28 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:55:28 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:59:30 overwrite css/roadhouse_mobile.css 
+2012-09-03 08:59:42 overwrite css/roadhouse_mobile.css 
+2012-09-03 09:01:30 overwrite css/roadhouse_mobile.css 
+2012-09-03 09:03:04 overwrite css/roadhouse_mobile.css 
+2012-09-03 09:03:30 overwrite css/roadhouse_mobile.css 
+2012-09-03 09:06:10     error scss/roadhouse_mobile.scss (Line 92 of scss/partials/_page.scss: Colors must have either three or six digits: '#a6000000')
+2012-09-03 09:06:10 overwrite css/roadhouse_mobile.css 
+2012-09-03 09:06:45 overwrite css/roadhouse_mobile.css 
+2012-09-03 09:06:57 overwrite css/roadhouse_mobile.css 
+2012-09-03 09:07:28 overwrite css/roadhouse_mobile.css 
+2012-09-03 09:08:12 overwrite css/roadhouse_mobile.css 
+2012-09-03 09:08:33 overwrite css/roadhouse_mobile.css 
+2012-09-03 09:09:45 overwrite css/roadhouse_mobile.css 
+2012-09-03 09:09:57 overwrite css/roadhouse_mobile.css 
+2012-09-03 09:16:13 overwrite css/roadhouse_mobile.css 
+2012-09-03 09:16:46 overwrite css/roadhouse_mobile.css 
+2012-09-03 09:18:03 overwrite css/roadhouse_mobile.css 
+2012-09-03 09:18:58 overwrite css/roadhouse_mobile.css 
+2012-09-03 09:19:33 overwrite css/roadhouse_mobile.css 
+2012-09-03 09:21:19 overwrite css/roadhouse_mobile.css 
+2012-09-03 09:21:24 overwrite css/roadhouse_mobile.css 
+2012-09-03 09:23:27 overwrite css/roadhouse_mobile.css 
+2012-09-03 09:23:51 overwrite css/roadhouse_mobile.css 
+2012-09-03 09:23:52 overwrite css/roadhouse_mobile.css 
+2012-09-03 09:31:16 overwrite css/roadhouse_mobile.css 
+2012-09-03 09:32:45 overwrite css/roadhouse_mobile.css 
+2012-09-03 09:32:55 identical css/roadhouse_mobile.css 
+2012-09-03 09:59:12 overwrite css/roadhouse_mobile.css 
+2012-09-03 09:59:27 overwrite css/roadhouse_mobile.css 
+2012-09-03 09:59:45 overwrite css/roadhouse_mobile.css 
+2012-09-03 10:02:00 overwrite css/roadhouse_mobile.css 
+2012-09-03 10:03:13 overwrite css/roadhouse_mobile.css 
+2012-09-03 10:04:51 overwrite css/roadhouse_mobile.css 
+2012-09-03 10:06:57 overwrite css/roadhouse_mobile.css 
+2012-09-03 10:07:15 overwrite css/roadhouse_mobile.css 
+2012-09-03 10:08:27 overwrite css/roadhouse_mobile.css 
+2012-09-03 10:09:28 overwrite css/roadhouse_mobile.css 
+2012-09-03 10:13:16 overwrite css/roadhouse_mobile.css 
+2012-09-03 10:32:58 overwrite css/roadhouse_mobile.css 
+2012-09-03 10:35:01 overwrite css/roadhouse_mobile.css 
+2012-09-03 10:35:03 overwrite css/roadhouse_mobile.css 
+2012-09-03 11:10:36 overwrite css/roadhouse_mobile.css 
+2012-09-03 11:11:18 overwrite css/roadhouse_mobile.css 
+2012-09-03 11:12:31 overwrite css/roadhouse_mobile.css 
+2012-09-03 11:15:04 overwrite css/roadhouse_mobile.css 
+2012-09-03 11:16:00 overwrite css/roadhouse_mobile.css 
+2012-09-03 11:16:24 overwrite css/roadhouse_mobile.css 
+2012-09-03 11:16:54 overwrite css/roadhouse_mobile.css 
+2012-09-03 11:17:10 overwrite css/roadhouse_mobile.css 
+2012-09-03 11:17:24 identical css/roadhouse_mobile.css 
+2012-09-03 11:20:45     error scss/roadhouse_mobile.scss (Line 151 of scss/partials/_page.scss: Invalid CSS after "}": expected "}", was "")
+2012-09-03 11:20:45 overwrite css/roadhouse_mobile.css 
+2012-09-03 11:21:07 overwrite css/roadhouse_mobile.css 
+2012-09-03 11:24:07 overwrite css/roadhouse_mobile.css 
+2012-09-03 11:28:48 overwrite css/roadhouse_mobile.css 
+2012-09-03 11:56:42 overwrite css/roadhouse_mobile.css 
+2012-09-03 11:58:55 overwrite css/roadhouse_mobile.css 
+2012-09-03 12:57:14 identical css/roadhouse_mobile.css 
+2012-09-03 12:57:35 overwrite css/roadhouse_mobile.css 
+2012-09-03 12:57:40 identical css/roadhouse_mobile.css 
+2012-09-03 12:58:22 identical css/roadhouse_mobile.css 
+2012-09-03 12:59:25 overwrite css/roadhouse_mobile.css 
+2012-09-03 12:59:59 overwrite css/roadhouse_mobile.css 
+2012-09-03 13:00:37 overwrite css/roadhouse_mobile.css 
+2012-09-03 13:00:53 overwrite css/roadhouse_mobile.css 
+2012-09-03 13:01:11 overwrite css/roadhouse_mobile.css 
+2012-09-03 13:06:02 overwrite css/roadhouse_mobile.css 
+2012-09-03 13:07:02 overwrite css/roadhouse_mobile.css 
+2012-09-03 13:07:32 overwrite css/roadhouse_mobile.css 
+2012-09-03 13:08:07 overwrite css/roadhouse_mobile.css 
+2012-09-03 13:08:38 overwrite css/roadhouse_mobile.css 
+2012-09-03 13:08:50 overwrite css/roadhouse_mobile.css 
+2012-09-03 13:11:02 overwrite css/roadhouse_mobile.css 
+2012-09-03 13:14:40 overwrite css/roadhouse_mobile.css 
+2012-09-03 13:14:41 overwrite css/roadhouse_mobile.css 
+2012-09-03 13:14:59 overwrite css/roadhouse_mobile.css 
+2012-09-03 13:40:20 overwrite css/roadhouse_mobile.css 
+2012-09-03 13:41:05 overwrite css/roadhouse_mobile.css 
+2012-09-03 13:41:47 overwrite css/roadhouse_mobile.css 
+2012-09-03 13:42:11 overwrite css/roadhouse_mobile.css 
+2012-09-03 13:42:59 overwrite css/roadhouse_mobile.css 
+2012-09-03 13:43:55 overwrite css/roadhouse_mobile.css 
+2012-09-03 13:44:28 overwrite css/roadhouse_mobile.css 
+2012-09-03 13:45:14 overwrite css/roadhouse_mobile.css 
+2012-09-03 13:47:47 overwrite css/roadhouse_mobile.css 
+2012-09-03 13:48:35 overwrite css/roadhouse_mobile.css 
+2012-09-03 14:07:52 identical css/roadhouse_mobile.css 
+2012-09-03 14:08:14 overwrite css/roadhouse_mobile.css 
+2012-09-03 14:08:23 overwrite css/roadhouse_mobile.css 
+2012-09-03 14:09:11 overwrite css/roadhouse_mobile.css 
+2012-09-03 14:09:25 overwrite css/roadhouse_mobile.css 
+2012-09-03 14:09:59 overwrite css/roadhouse_mobile.css 
+2012-09-03 14:13:44 overwrite css/roadhouse_mobile.css 
+2012-09-03 14:13:55 overwrite css/roadhouse_mobile.css 
+2012-09-03 14:14:11 overwrite css/roadhouse_mobile.css 
+2012-09-03 14:15:46 overwrite css/roadhouse_mobile.css 
+2012-09-03 14:17:50 overwrite css/roadhouse_mobile.css 
+2012-09-03 14:18:20 overwrite css/roadhouse_mobile.css 
+2012-09-03 14:22:25 overwrite css/roadhouse_mobile.css 
+2012-09-03 14:22:40 overwrite css/roadhouse_mobile.css 
+2012-09-03 14:22:46 identical css/roadhouse_mobile.css 
+2012-09-03 14:23:59 overwrite css/roadhouse_mobile.css 
+2012-09-03 14:24:13 overwrite css/roadhouse_mobile.css 
+2012-09-03 14:24:26 overwrite css/roadhouse_mobile.css 
+2012-09-03 14:24:38 overwrite css/roadhouse_mobile.css 
+2012-09-03 14:25:11 overwrite css/roadhouse_mobile.css 
+2012-09-03 14:27:08 overwrite css/roadhouse_mobile.css 
+2012-09-03 14:27:44 overwrite css/roadhouse_mobile.css 
+2012-09-03 14:28:50 overwrite css/roadhouse_mobile.css 
+2012-09-03 14:34:41 overwrite css/roadhouse_mobile.css 
+2012-09-03 14:36:14 overwrite css/roadhouse_mobile.css 
+2012-09-03 14:59:20 overwrite css/roadhouse_mobile.css 
+2012-09-03 14:59:58 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:00:29 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:04:23 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:04:43 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:04:47 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:26:29 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:27:16 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:40:52 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:41:23 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:41:38 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:41:41 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:43:01 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:46:14 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:46:49 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:48:29 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:48:55 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:48:58 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:49:29 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:49:52 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:53:29 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:54:11 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:54:53 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:54:58 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:54:59 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:56:46     error scss/roadhouse_mobile.scss (Line 260 of scss/partials/_page.scss: Invalid CSS after "		text-shadow": expected ";", was ": 0px 2px 3px l...")
+2012-09-03 15:56:46 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:56:56     error scss/roadhouse_mobile.scss (Line 260 of scss/partials/_page.scss: Invalid CSS after "		text-shadow": expected ";", was ": 0px 2px 3px l...")
+2012-09-03 15:56:56 identical css/roadhouse_mobile.css 
+2012-09-03 15:57:10 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:57:38 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:57:52 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:58:28 overwrite css/roadhouse_mobile.css 
+2012-09-03 15:59:49 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:03:43 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:05:29 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:07:07 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:07:49 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:08:26 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:08:44 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:08:47 identical css/roadhouse_mobile.css 
+2012-09-03 16:10:25 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:10:32 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:11:41 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:11:53 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:11:56 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:12:05 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:12:13 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:12:28 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:12:40 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:13:41 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:15:59 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:16:23 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:17:02 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:17:46 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:17:47 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:17:50     error scss/roadhouse_mobile.scss (Line 245 of scss/partials/_page.scss: Invalid CSS after "	article{": expected "}", was "\")
+2012-09-03 16:17:50 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:17:52 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:18:14 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:18:53 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:20:17 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:20:19 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:25:22 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:26:19 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:28:37 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:30:16 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:30:19 identical css/roadhouse_mobile.css 
+2012-09-03 16:31:02 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:31:05 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:35:37 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:36:23 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:37:02 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:37:13 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:37:41 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:38:55 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:39:41 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:40:31 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:41:13 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:43:28 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:53:44 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:53:53 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:54:46 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:55:38 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:55:46 overwrite css/roadhouse_mobile.css 
+2012-09-03 16:56:40 overwrite css/roadhouse_mobile.css 
+2012-09-04 08:13:26 overwrite css/roadhouse_mobile.css 
+2012-09-04 08:13:30 identical css/roadhouse_mobile.css 
+2012-09-04 08:19:20 overwrite css/roadhouse_mobile.css 
+2012-09-04 08:23:09 overwrite css/roadhouse_mobile.css 
+2012-09-04 08:23:24 overwrite css/roadhouse_mobile.css 
+2012-09-04 08:23:27 identical css/roadhouse_mobile.css 
+2012-09-04 08:24:18 overwrite css/roadhouse_mobile.css 
+2012-09-04 08:24:25 overwrite css/roadhouse_mobile.css 
+2012-09-04 08:24:43 overwrite css/roadhouse_mobile.css 
+2012-09-04 08:24:57 overwrite css/roadhouse_mobile.css 
+2012-09-04 08:25:18 overwrite css/roadhouse_mobile.css 
+2012-09-04 08:25:28 overwrite css/roadhouse_mobile.css 
+2012-09-04 08:26:03 overwrite css/roadhouse_mobile.css 
+2012-09-04 08:26:22 overwrite css/roadhouse_mobile.css 
+2012-09-04 08:28:06 overwrite css/roadhouse_mobile.css 
+2012-09-04 08:33:19 overwrite css/roadhouse_mobile.css 
+2012-09-04 08:33:22 identical css/roadhouse_mobile.css 
+2012-09-04 08:34:04 overwrite css/roadhouse_mobile.css 
+2012-09-04 08:34:10 overwrite css/roadhouse_mobile.css 
+2012-09-04 08:34:19 overwrite css/roadhouse_mobile.css 
+2012-09-04 08:34:29 overwrite css/roadhouse_mobile.css 
+2012-09-04 08:34:34 overwrite css/roadhouse_mobile.css 
+2012-09-04 08:34:43 overwrite css/roadhouse_mobile.css 
+2012-09-04 08:34:47 overwrite css/roadhouse_mobile.css 
+2012-09-04 09:07:36 overwrite css/roadhouse_mobile.css 
+2012-09-04 09:07:46 overwrite css/roadhouse_mobile.css 
+2012-09-04 09:08:43 overwrite css/roadhouse_mobile.css 
+2012-09-04 09:09:40     error scss/roadhouse_mobile.scss (Line 353 of scss/partials/_page.scss: Invalid CSS after "...ite_contactIcns": expected ")", was ".png) no-repeat;")
+2012-09-04 09:09:40 overwrite css/roadhouse_mobile.css 
+2012-09-04 09:10:01 overwrite css/roadhouse_mobile.css 
+2012-09-04 09:10:34 overwrite css/roadhouse_mobile.css 
+2012-09-04 09:10:51 overwrite css/roadhouse_mobile.css 
+2012-09-04 09:13:00 overwrite css/roadhouse_mobile.css 
+2012-09-04 09:13:17 overwrite css/roadhouse_mobile.css 
+2012-09-04 09:13:29 overwrite css/roadhouse_mobile.css 
+2012-09-04 09:15:45 overwrite css/roadhouse_mobile.css 
+2012-09-04 09:16:43 overwrite css/roadhouse_mobile.css 
+2012-09-04 09:16:47 overwrite css/roadhouse_mobile.css 
+2012-09-04 09:24:10 overwrite css/roadhouse_mobile.css 
+2012-09-04 09:24:23 overwrite css/roadhouse_mobile.css 
+2012-09-04 09:24:31 overwrite css/roadhouse_mobile.css 
+2012-09-04 09:27:49 overwrite css/roadhouse_mobile.css 
+2012-09-04 09:28:01 overwrite css/roadhouse_mobile.css 
+2012-09-04 09:28:02 overwrite css/roadhouse_mobile.css 
+2012-09-04 09:28:40 overwrite css/roadhouse_mobile.css 
+2012-09-04 09:29:49 overwrite css/roadhouse_mobile.css 
+2012-09-04 09:38:55 overwrite css/roadhouse_mobile.css 
+2012-09-04 09:39:25 overwrite css/roadhouse_mobile.css 
+2012-09-04 09:45:04 overwrite css/roadhouse_mobile.css 
+2012-09-04 09:45:13 overwrite css/roadhouse_mobile.css 
+2012-09-04 10:08:23 overwrite css/roadhouse_mobile.css 
+2012-09-04 10:09:01 overwrite css/roadhouse_mobile.css 
+2012-09-04 10:09:21 overwrite css/roadhouse_mobile.css 
+2012-09-04 10:10:52 overwrite css/roadhouse_mobile.css 
+2012-09-04 10:16:06 overwrite css/roadhouse_mobile.css 
+2012-09-04 10:16:16 overwrite css/roadhouse_mobile.css 
+2012-09-04 10:41:21 overwrite css/roadhouse_mobile.css 
+2012-09-04 10:42:25 overwrite css/roadhouse_mobile.css 
+2012-09-04 10:42:42 overwrite css/roadhouse_mobile.css 
+2012-09-04 10:42:49 overwrite css/roadhouse_mobile.css 
+2012-09-04 10:43:25 overwrite css/roadhouse_mobile.css 
+2012-09-04 10:44:14 overwrite css/roadhouse_mobile.css 
+2012-09-04 10:44:24 overwrite css/roadhouse_mobile.css 
+2012-09-04 10:46:06 overwrite css/roadhouse_mobile.css 
+2012-09-04 10:46:48 overwrite css/roadhouse_mobile.css 
+2012-09-04 10:47:07 overwrite css/roadhouse_mobile.css 
+2012-09-04 10:47:24 overwrite css/roadhouse_mobile.css 
+2012-09-04 10:47:52 overwrite css/roadhouse_mobile.css 
+2012-09-04 10:50:09 overwrite css/roadhouse_mobile.css 
+2012-09-04 10:50:30 overwrite css/roadhouse_mobile.css 
+2012-09-04 10:51:10 overwrite css/roadhouse_mobile.css 
+2012-09-04 13:11:58 overwrite css/roadhouse_mobile.css 
+2012-09-04 13:12:11 overwrite css/roadhouse_mobile.css 
+2012-09-04 13:12:56 overwrite css/roadhouse_mobile.css 
+2012-09-04 13:13:13 overwrite css/roadhouse_mobile.css 
+2012-09-04 13:13:29 overwrite css/roadhouse_mobile.css 
+2012-09-04 13:13:34 overwrite css/roadhouse_mobile.css 
+2012-09-04 13:14:14 overwrite css/roadhouse_mobile.css 
+2012-09-04 13:17:05 overwrite css/roadhouse_mobile.css 
+2012-09-04 13:44:32 overwrite css/roadhouse_mobile.css 
+2012-09-04 13:44:43 overwrite css/roadhouse_mobile.css 
+2012-09-04 13:48:56 overwrite css/roadhouse_mobile.css 
+2012-09-04 13:49:32 overwrite css/roadhouse_mobile.css 
+2012-09-04 13:49:50 overwrite css/roadhouse_mobile.css 
+2012-09-04 13:50:11 overwrite css/roadhouse_mobile.css 
+2012-09-04 13:50:37 overwrite css/roadhouse_mobile.css 
+2012-09-04 13:50:43 overwrite css/roadhouse_mobile.css 
+2012-09-04 13:59:14 overwrite css/roadhouse_mobile.css 
+2012-09-04 13:59:52 overwrite css/roadhouse_mobile.css 
+2012-09-04 14:00:40 overwrite css/roadhouse_mobile.css 
+2012-09-04 14:01:44 overwrite css/roadhouse_mobile.css 
+2012-09-04 14:04:40 overwrite css/roadhouse_mobile.css 
+2012-09-04 14:05:23     error scss/roadhouse_mobile.scss (Line 460 of scss/partials/_page.scss: Invalid CSS after "	/margin": expected /\//, was ":0 auto;")
+2012-09-04 14:05:23 overwrite css/roadhouse_mobile.css 
+2012-09-04 14:05:26 overwrite css/roadhouse_mobile.css 
+2012-09-04 14:06:11 identical css/roadhouse_mobile.css 
+2012-09-04 14:13:20 overwrite css/roadhouse_mobile.css 
+2012-09-04 14:13:47 overwrite css/roadhouse_mobile.css 
+2012-09-04 14:14:25 overwrite css/roadhouse_mobile.css 
+2012-09-04 14:14:26 identical css/roadhouse_mobile.css 
+2012-09-04 14:15:20 identical css/roadhouse_mobile.css 
+2012-09-04 14:15:31 overwrite css/roadhouse_mobile.css 
+2012-09-04 14:16:19 overwrite css/roadhouse_mobile.css 
+2012-09-04 14:18:02 overwrite css/roadhouse_mobile.css 
+2012-09-04 14:18:31 overwrite css/roadhouse_mobile.css 
+2012-09-04 14:18:49 overwrite css/roadhouse_mobile.css 
+2012-09-04 14:18:55 identical css/roadhouse_mobile.css 
+2012-09-04 14:20:29 identical css/roadhouse_mobile.css 
+2012-09-04 14:20:32 overwrite css/roadhouse_mobile.css 
+2012-09-04 14:25:37 overwrite css/roadhouse_mobile.css 
+2012-09-04 14:26:43 overwrite css/roadhouse_mobile.css 
+2012-09-04 14:26:59 overwrite css/roadhouse_mobile.css 
+2012-09-04 14:29:38     error scss/roadhouse_mobile.scss (Line 460 of scss/partials/_page.scss: Invalid CSS after "	width: 95px; ": expected "}", was "!important")
+2012-09-04 14:29:38 overwrite css/roadhouse_mobile.css 
+2012-09-04 14:29:52 overwrite css/roadhouse_mobile.css 
+2012-09-04 14:32:46 overwrite css/roadhouse_mobile.css 
+2012-09-04 14:35:46 overwrite css/roadhouse_mobile.css 
+2012-09-04 14:38:53 overwrite css/roadhouse_mobile.css 
+2012-09-04 14:39:49 overwrite css/roadhouse_mobile.css 
+2012-09-04 14:40:49 overwrite css/roadhouse_mobile.css 
+2012-09-04 14:43:04 overwrite css/roadhouse_mobile.css 
+2012-09-04 14:43:49 overwrite css/roadhouse_mobile.css 
+2012-09-04 14:44:10 overwrite css/roadhouse_mobile.css 
+2012-09-04 15:03:52 overwrite css/roadhouse_mobile.css 
+2012-09-04 15:04:08 overwrite css/roadhouse_mobile.css 
+2012-09-04 15:04:13 overwrite css/roadhouse_mobile.css 
+2012-09-05 08:09:51 overwrite css/roadhouse_mobile.css 
+2012-09-05 08:10:39 overwrite css/roadhouse_mobile.css 
+2012-09-05 08:10:57 overwrite css/roadhouse_mobile.css 
+2012-09-05 08:25:35 overwrite css/roadhouse_mobile.css 
+2012-09-05 08:25:39 overwrite css/roadhouse_mobile.css 
+2012-09-05 08:25:54 overwrite css/roadhouse_mobile.css 
+2012-09-05 09:44:15 overwrite css/roadhouse_mobile.css 
+2012-09-05 09:44:33 overwrite css/roadhouse_mobile.css 
+2012-09-05 09:44:41 overwrite css/roadhouse_mobile.css 
+2012-09-05 09:44:54 overwrite css/roadhouse_mobile.css 
+2012-09-05 09:56:05 overwrite css/roadhouse_mobile.css 
+2012-09-05 10:58:57 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:01:15 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:01:32 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:06:01 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:06:45 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:06:47 identical css/roadhouse_mobile.css 
+2012-09-05 11:08:02 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:09:29 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:09:32 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:14:08 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:15:14 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:15:39 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:17:30 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:21:17 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:21:44 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:22:09 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:22:35 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:23:20 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:23:23 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:27:09 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:27:53 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:33:53 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:34:41 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:36:45 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:37:27 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:38:00 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:38:11 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:38:59 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:39:11 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:39:19     error scss/roadhouse_mobile.scss (Line 336 of scss/partials/_page.scss: Invalid CSS after "			width: 100%": expected ";", was "@include box-sh...")
+2012-09-05 11:39:19 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:39:23 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:40:06 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:41:02 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:41:53 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:46:15 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:47:30 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:48:00 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:48:21 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:50:03 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:51:11 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:51:20 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:52:17 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:54:18 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:55:47 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:56:44 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:57:14 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:57:44 overwrite css/roadhouse_mobile.css 
+2012-09-05 11:59:42 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:01:11 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:02:30 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:03:02 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:03:41 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:06:23 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:06:59 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:07:20 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:08:33 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:09:06 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:09:30 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:09:48 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:10:56 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:11:23 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:11:44 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:12:07 identical css/roadhouse_mobile.css 
+2012-09-05 12:12:23 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:13:09 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:13:38 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:14:18 identical css/roadhouse_mobile.css 
+2012-09-05 12:14:59 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:15:21 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:16:15     error scss/roadhouse_mobile.scss (Line 88 of scss/partials/_page.scss: Invalid CSS after "...5px, 15px, -5px": expected ")", was ";);")
+2012-09-05 12:16:15 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:16:18 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:16:50 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:17:23 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:18:55     error scss/roadhouse_mobile.scss (Line 91 of scss/partials/_page.scss: Invalid CSS after "...5px, 15px, -5);": expected ";", was "#logo{")
+2012-09-05 12:18:55 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:19:09 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:19:27 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:20:05 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:20:47 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:21:03 overwrite css/roadhouse_mobile.css 
+2012-09-05 12:24:26 overwrite css/roadhouse_mobile.css 
+2012-09-05 13:21:10 overwrite css/roadhouse_mobile.css 
+2012-09-05 13:22:07 overwrite css/roadhouse_mobile.css 
+2012-09-05 13:23:45 overwrite css/roadhouse_mobile.css 
+2012-09-05 13:31:52 overwrite css/roadhouse_mobile.css 
+2012-09-05 13:32:31 overwrite css/roadhouse_mobile.css 
+2012-09-05 13:39:46 overwrite css/roadhouse_mobile.css 
+2012-09-05 13:59:01 overwrite css/roadhouse_mobile.css 
+2012-09-05 13:59:42 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:00:57 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:04:18 identical css/roadhouse_mobile.css 
+2012-09-05 14:05:32     error scss/roadhouse_mobile.scss (Line 70 of scss/partials/_page.scss: Invalid CSS after "			&": expected "{", was "@include retina()")
+2012-09-05 14:05:32 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:06:08     error scss/roadhouse_mobile.scss (Line 70 of scss/partials/_page.scss: Invalid CSS after "			&": expected "{", was "@include retina{")
+2012-09-05 14:06:08 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:06:18     error scss/roadhouse_mobile.scss (Line 70 of scss/partials/_page.scss: Undefined mixin 'retina'.)
+2012-09-05 14:06:18 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:07:40     error scss/roadhouse_mobile.scss (Line 70 of scss/partials/_page.scss: Undefined mixin 'retina'.)
+2012-09-05 14:07:40 identical css/roadhouse_mobile.css 
+2012-09-05 14:07:56 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:08:04 identical css/roadhouse_mobile.css 
+2012-09-05 14:09:18 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:10:00 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:10:36 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:12:37 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:24:52 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:27:19 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:27:46 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:27:58 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:29:13     error scss/roadhouse_mobile.scss (Line 85 of scss/partials/_page.scss: Invalid CSS after "		&": expected "{", was "@include retina{")
+2012-09-05 14:29:13 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:29:57 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:31:00 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:33:39 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:34:34 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:38:42 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:39:33 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:39:55 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:40:16 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:40:33 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:41:03 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:41:16 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:42:49 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:43:04 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:43:24 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:44:12 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:44:33 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:45:27 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:45:45 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:46:43 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:49:00 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:49:37 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:49:43 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:50:36 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:50:55 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:51:28 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:52:27 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:53:25 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:55:21 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:55:33 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:57:06 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:57:07 overwrite css/roadhouse_mobile.css 
+2012-09-05 14:59:21 overwrite css/roadhouse_mobile.css 
+2012-09-05 15:00:07 overwrite css/roadhouse_mobile.css 
+2012-09-05 15:00:28 overwrite css/roadhouse_mobile.css 
+2012-09-05 15:00:34 overwrite css/roadhouse_mobile.css 
+2012-09-05 15:06:33 overwrite css/roadhouse_mobile.css 
+2012-09-05 15:10:51 overwrite css/roadhouse_mobile.css 
+2012-09-05 15:11:30 overwrite css/roadhouse_mobile.css 
+2012-09-05 15:12:52 overwrite css/roadhouse_mobile.css 
+2012-09-05 15:13:33 overwrite css/roadhouse_mobile.css 
+2012-09-05 15:13:49 overwrite css/roadhouse_mobile.css 
+2012-09-05 15:14:30 overwrite css/roadhouse_mobile.css 
+2012-09-05 15:14:58 overwrite css/roadhouse_mobile.css 
+2012-09-05 15:15:15 overwrite css/roadhouse_mobile.css 
+2012-09-05 15:16:52 overwrite css/roadhouse_mobile.css 
+2012-09-05 15:34:34 overwrite css/roadhouse_mobile.css 
+2012-09-05 15:35:00 overwrite css/roadhouse_mobile.css 
+2012-09-05 15:35:06 overwrite css/roadhouse_mobile.css 
+2012-09-05 15:36:33 overwrite css/roadhouse_mobile.css 
+2012-09-05 15:36:36 overwrite css/roadhouse_mobile.css 
+2012-09-05 15:37:37 overwrite css/roadhouse_mobile.css 
+2012-09-05 15:38:03 overwrite css/roadhouse_mobile.css 
+2012-09-05 15:56:01 overwrite css/roadhouse_mobile.css 
+2012-09-05 15:56:21 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:01:06 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:02:30 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:05:18 identical css/roadhouse_mobile.css 
+2012-09-05 16:07:49 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:08:07 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:08:28 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:09:49 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:11:19 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:12:03 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:12:34 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:13:15 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:13:18 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:14:00 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:14:54 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:15:37 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:15:39 identical css/roadhouse_mobile.css 
+2012-09-05 16:15:46 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:16:13 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:16:31 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:17:15 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:17:57 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:22:09     error scss/roadhouse_mobile.scss (Line 528 of scss/partials/_page.scss: Invalid CSS after ".swiper-slide ": expected "{", was "")
+2012-09-05 16:22:09 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:22:13     error scss/roadhouse_mobile.scss (Line 531 of scss/partials/_page.scss: Invalid CSS after ".swiper-slide ": expected "{", was "")
+2012-09-05 16:22:13 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:22:16     error scss/roadhouse_mobile.scss (Line 530 of scss/partials/_page.scss: Invalid CSS after ".swiper-slide ": expected "{", was "")
+2012-09-05 16:22:16 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:22:21 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:23:57 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:39:57 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:40:12 identical css/roadhouse_mobile.css 
+2012-09-05 16:41:03 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:41:21 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:41:54 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:42:06 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:42:42 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:43:09 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:43:39 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:44:42 overwrite css/roadhouse_mobile.css 
+2012-09-05 16:44:52 overwrite css/roadhouse_mobile.css 
+2012-09-06 08:38:34 overwrite css/roadhouse_mobile.css 
+2012-09-06 08:49:13 overwrite css/roadhouse_mobile.css 
+2012-09-06 10:20:34 overwrite css/roadhouse_mobile.css 
+2012-09-06 10:20:43 overwrite css/roadhouse_mobile.css 
+2012-09-06 10:26:14 overwrite css/roadhouse_mobile.css 
+2012-09-06 10:27:10 overwrite css/roadhouse_mobile.css 
+2012-09-06 10:30:19 overwrite css/roadhouse_mobile.css 
+2012-09-06 10:40:02 overwrite css/roadhouse_mobile.css 
+2012-09-06 10:40:13 overwrite css/roadhouse_mobile.css 
+2012-09-06 10:42:43 overwrite css/roadhouse_mobile.css 
+2012-09-06 10:43:20 overwrite css/roadhouse_mobile.css 
+2012-09-06 10:44:56 overwrite css/roadhouse_mobile.css 
+2012-09-06 10:46:34 overwrite css/roadhouse_mobile.css 
+2012-09-06 10:53:14 overwrite css/roadhouse_mobile.css 
+2012-09-06 10:53:59 overwrite css/roadhouse_mobile.css 
+2012-09-06 10:56:38 overwrite css/roadhouse_mobile.css 
+2012-09-06 10:57:05 overwrite css/roadhouse_mobile.css 
+2012-09-06 10:57:26 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:11:44 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:11:55 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:14:08 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:14:17 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:16:20 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:16:55 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:18:01 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:18:47 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:19:08 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:19:55 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:20:35 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:20:41 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:21:17 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:22:05 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:22:28 identical css/roadhouse_mobile.css 
+2012-09-06 11:22:32 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:22:58 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:23:10 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:23:32 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:24:02 identical css/roadhouse_mobile.css 
+2012-09-06 11:24:14 identical css/roadhouse_mobile.css 
+2012-09-06 11:24:16 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:24:31 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:25:07 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:25:19 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:26:52 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:27:20 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:27:53 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:28:16 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:28:47 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:28:58 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:29:01 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:29:13 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:29:22 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:29:32 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:30:01 identical css/roadhouse_mobile.css 
+2012-09-06 11:30:10 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:30:20 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:30:52 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:32:37 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:34:17 identical css/roadhouse_mobile.css 
+2012-09-06 11:34:38 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:35:08 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:35:14 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:35:53 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:36:11 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:36:20 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:36:28 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:38:35 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:38:38 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:39:23 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:39:49 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:40:04 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:40:35 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:40:46 identical css/roadhouse_mobile.css 
+2012-09-06 11:41:02 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:41:13 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:41:26 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:42:26 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:42:52 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:43:04 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:43:17 identical css/roadhouse_mobile.css 
+2012-09-06 11:43:19 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:43:40 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:45:13 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:45:53 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:46:46 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:50:53 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:51:59 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:52:05 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:53:37 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:56:53 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:57:16 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:57:37 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:57:52 overwrite css/roadhouse_mobile.css 
+2012-09-06 11:59:08 overwrite css/roadhouse_mobile.css 
+2012-09-06 12:00:10 overwrite css/roadhouse_mobile.css 
+2012-09-06 12:01:49 identical css/roadhouse_mobile.css 
+2012-09-06 12:03:28 overwrite css/roadhouse_mobile.css 
+2012-09-06 12:03:55 overwrite css/roadhouse_mobile.css 
+2012-09-06 12:04:55 overwrite css/roadhouse_mobile.css 
+2012-09-06 12:43:01 overwrite css/roadhouse_mobile.css 
+2012-09-06 12:44:22 overwrite css/roadhouse_mobile.css 
+2012-09-06 12:44:50 overwrite css/roadhouse_mobile.css 
+2012-09-06 12:53:32 overwrite css/roadhouse_mobile.css 
+2012-09-06 12:53:59 overwrite css/roadhouse_mobile.css 
+2012-09-06 12:54:06 overwrite css/roadhouse_mobile.css 
+2012-09-06 12:54:33 overwrite css/roadhouse_mobile.css 
+2012-09-06 12:54:48 overwrite css/roadhouse_mobile.css 
+2012-09-06 12:55:45 overwrite css/roadhouse_mobile.css 
+2012-09-06 12:57:24 overwrite css/roadhouse_mobile.css 
+2012-09-06 12:58:33 overwrite css/roadhouse_mobile.css 
+2012-09-06 12:58:42 overwrite css/roadhouse_mobile.css 
+2012-09-06 12:58:53 overwrite css/roadhouse_mobile.css 
+2012-09-06 12:59:33 identical css/roadhouse_mobile.css 
+2012-09-06 13:02:03 overwrite css/roadhouse_mobile.css 
+2012-09-06 13:02:18 overwrite css/roadhouse_mobile.css 
+2012-09-06 13:02:26 overwrite css/roadhouse_mobile.css 
+2012-09-06 13:03:18 overwrite css/roadhouse_mobile.css 
+2012-09-06 13:03:39 overwrite css/roadhouse_mobile.css 
+2012-09-06 13:03:54 overwrite css/roadhouse_mobile.css 
+2012-09-06 13:04:00 overwrite css/roadhouse_mobile.css 
+2012-09-06 13:04:29 overwrite css/roadhouse_mobile.css 
+2012-09-06 13:04:59 overwrite css/roadhouse_mobile.css 
+2012-09-06 13:05:42 overwrite css/roadhouse_mobile.css 
+2012-09-06 13:06:11 overwrite css/roadhouse_mobile.css 
+2012-09-06 13:06:23 overwrite css/roadhouse_mobile.css 
+2012-09-06 13:06:39 overwrite css/roadhouse_mobile.css 
+2012-09-06 13:25:44 overwrite css/roadhouse_mobile.css 
+2012-09-06 13:25:56 overwrite css/roadhouse_mobile.css 
+2012-09-06 13:26:03 overwrite css/roadhouse_mobile.css 
+2012-09-06 13:26:28 overwrite css/roadhouse_mobile.css 
+2012-09-06 13:26:36 overwrite css/roadhouse_mobile.css 
+2012-09-06 13:27:11 overwrite css/roadhouse_mobile.css 
+2012-09-06 13:27:29 overwrite css/roadhouse_mobile.css 
+2012-09-06 13:58:57 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:00:10 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:10:56 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:14:33 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:15:27 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:15:59 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:21:24 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:21:29 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:21:55 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:22:01 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:22:06 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:25:01 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:25:06 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:27:43     error scss/roadhouse_mobile.scss (Line 526 of scss/partials/_page.scss: Invalid CSS after "		border-left:": expected pseudoclass or pseudoelement, was "1px solid #000;")
+2012-09-06 14:27:43 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:27:46 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:29:05 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:29:39 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:30:11 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:30:35 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:30:42 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:32:38 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:32:44 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:34:35 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:35:00 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:35:18 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:35:36 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:46:17 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:47:44 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:48:15 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:51:44 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:53:15 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:58:06 overwrite css/roadhouse_mobile.css 
+2012-09-06 14:59:08 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:11:36 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:11:47 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:12:14 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:12:35 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:15:47 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:16:12 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:19:12 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:21:26 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:24:05 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:24:45 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:26:08 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:26:47 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:27:06 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:28:08 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:28:33 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:29:23 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:29:54 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:30:18 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:30:54 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:32:39 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:33:40 identical css/roadhouse_mobile.css 
+2012-09-06 15:33:59 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:34:26 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:34:37 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:34:39 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:34:48 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:34:59 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:35:51 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:36:51 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:39:33 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:43:42 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:51:21 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:51:59 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:53:23 identical css/roadhouse_mobile.css 
+2012-09-06 15:53:45 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:54:11 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:54:39 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:55:35 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:55:50 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:56:57 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:57:38 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:57:50 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:58:20 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:58:41 overwrite css/roadhouse_mobile.css 
+2012-09-06 15:59:09 overwrite css/roadhouse_mobile.css 
+2012-09-06 16:03:53 overwrite css/roadhouse_mobile.css 
+2012-09-07 10:39:50 overwrite css/roadhouse_mobile.css 
+2012-09-07 10:46:17 overwrite css/roadhouse_mobile.css 
+2012-09-07 11:10:20 overwrite css/roadhouse_mobile.css 
+2012-09-07 11:10:27 overwrite css/roadhouse_mobile.css 
+2012-09-10 08:39:01 overwrite css/roadhouse_mobile.css 
+2012-09-10 08:42:06 overwrite css/roadhouse_mobile.css 
+2012-09-10 08:43:45 overwrite css/roadhouse_mobile.css 
+2012-09-10 08:45:06 overwrite css/roadhouse_mobile.css 
+2012-09-10 08:45:09 identical css/roadhouse_mobile.css 
+2012-09-10 08:47:34 overwrite css/roadhouse_mobile.css 
+2012-09-10 08:47:57 overwrite css/roadhouse_mobile.css 
+2012-09-10 08:51:49 overwrite css/roadhouse_mobile.css 
+2012-09-10 08:53:57 overwrite css/roadhouse_mobile.css 
+2012-09-10 08:54:13 overwrite css/roadhouse_mobile.css 
+2012-09-10 08:54:57 overwrite css/roadhouse_mobile.css 
+2012-09-10 08:56:24 overwrite css/roadhouse_mobile.css 
+2012-09-10 08:57:49 overwrite css/roadhouse_mobile.css 
+2012-09-10 08:58:01 overwrite css/roadhouse_mobile.css 
+2012-09-10 08:58:15 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:02:12 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:02:18 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:03:22 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:05:43 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:05:48 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:05:52 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:06:28 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:07:01 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:08:18 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:08:36 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:08:49 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:11:30 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:12:04 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:14:45 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:16:04 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:16:21 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:21:51 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:22:01 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:22:40 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:23:27 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:26:24 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:27:12 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:28:36 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:31:16 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:31:25 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:31:52 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:41:16 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:42:31 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:43:10 overwrite css/roadhouse_mobile.css 
+2012-09-10 09:44:39 overwrite css/roadhouse_mobile.css 
+2012-09-10 10:12:10 overwrite css/roadhouse_mobile.css 
+2012-09-10 10:30:18 overwrite css/roadhouse_mobile.css 
+2012-09-10 10:30:21 overwrite css/roadhouse_mobile.css 
+2012-09-10 10:31:01 overwrite css/roadhouse_mobile.css 
+2012-09-10 11:45:30 overwrite css/roadhouse_mobile.css 
+2012-09-10 11:46:06 overwrite css/roadhouse_mobile.css 
+2012-09-10 11:46:16 overwrite css/roadhouse_mobile.css 
+2012-09-10 11:46:43 overwrite css/roadhouse_mobile.css 
+2012-09-10 11:47:03 overwrite css/roadhouse_mobile.css 
+2012-09-10 11:49:09 overwrite css/roadhouse_mobile.css 
+2012-09-10 11:49:36 overwrite css/roadhouse_mobile.css 
+2012-09-10 11:49:49 overwrite css/roadhouse_mobile.css 
+2012-09-10 11:50:46 overwrite css/roadhouse_mobile.css 
+2012-09-10 11:51:10 overwrite css/roadhouse_mobile.css 
+2012-09-10 11:51:24 overwrite css/roadhouse_mobile.css 
+2012-09-10 11:52:31 identical css/roadhouse_mobile.css 
+2012-09-10 11:52:36 overwrite css/roadhouse_mobile.css 
+2012-09-10 13:36:45 overwrite css/roadhouse_mobile.css 
+2012-09-10 13:37:40 overwrite css/roadhouse_mobile.css 
+2012-09-10 13:37:48 overwrite css/roadhouse_mobile.css 
+2012-09-10 13:43:55 overwrite css/roadhouse_mobile.css 
+2012-09-10 13:53:33 overwrite css/roadhouse_mobile.css 
+2012-09-10 13:54:17 identical css/roadhouse_mobile.css 
+2012-09-10 13:54:51 overwrite css/roadhouse_mobile.css 
+2012-09-10 13:55:40 identical css/roadhouse_mobile.css 
+2012-09-10 13:56:18 overwrite css/roadhouse_mobile.css 
+2012-09-10 13:56:42 overwrite css/roadhouse_mobile.css 
+2012-09-10 13:57:01 overwrite css/roadhouse_mobile.css 
+2012-09-10 13:57:06 overwrite css/roadhouse_mobile.css 
+2012-09-10 13:57:45 overwrite css/roadhouse_mobile.css 
+2012-09-10 13:59:07 overwrite css/roadhouse_mobile.css 
+2012-09-10 14:02:37 overwrite css/roadhouse_mobile.css 
+2012-09-10 14:03:19 overwrite css/roadhouse_mobile.css 
+2012-09-10 14:04:24 overwrite css/roadhouse_mobile.css 
+2012-09-10 14:05:55 overwrite css/roadhouse_mobile.css 
+2012-09-10 14:06:33 overwrite css/roadhouse_mobile.css 
+2012-09-10 14:07:00 overwrite css/roadhouse_mobile.css 
+2012-09-10 14:07:10 overwrite css/roadhouse_mobile.css 
+2012-09-10 17:01:08 overwrite css/roadhouse_mobile.css 
+2012-09-11 09:20:10     error scss/roadhouse_mobile.scss (Line 35: Invalid CSS after "...ction semantics": expected selector or at-rule, was "@import "partia...")
+2012-09-11 09:20:10 overwrite css/roadhouse_mobile.css 
+2012-09-11 09:20:33     error scss/roadhouse_mobile.scss (Line 35: Invalid CSS after "...ction semantics": expected selector or at-rule, was "@import "partia...")
+2012-09-11 09:20:33 identical css/roadhouse_mobile.css 
+2012-09-11 09:20:52     error scss/roadhouse_mobile.scss (Line 35: Invalid CSS after "...ction semantics": expected selector or at-rule, was "@import "partia...")
+2012-09-11 09:20:52 overwrite css/roadhouse_mobile.css 
+2012-09-11 09:21:03 overwrite css/roadhouse_mobile.css 
+2012-09-11 09:38:10 overwrite css/roadhouse_mobile.css 
+2012-09-11 09:44:18     error scss/roadhouse_mobile.scss (Line 137 of scss/partials/_page.scss: Invalid CSS after "		/top": expected /\//, was ": 79px;")
+2012-09-11 09:44:18 overwrite css/roadhouse_mobile.css 
+2012-09-11 09:44:20 overwrite css/roadhouse_mobile.css 
+2012-09-11 09:45:05 overwrite css/roadhouse_mobile.css 
+2012-09-11 09:46:59 overwrite css/roadhouse_mobile.css 
+2012-09-11 09:47:37 overwrite css/roadhouse_mobile.css 
+2012-09-11 09:48:13 overwrite css/roadhouse_mobile.css 
+2012-09-11 09:48:47 overwrite css/roadhouse_mobile.css 
+2012-09-11 09:49:14 overwrite css/roadhouse_mobile.css 
+2012-09-11 09:49:16 overwrite css/roadhouse_mobile.css 
+2012-09-11 09:49:23 overwrite css/roadhouse_mobile.css 
+2012-09-11 09:49:50 overwrite css/roadhouse_mobile.css 
+2012-09-11 10:47:32 overwrite css/roadhouse_mobile.css 
+2012-09-11 12:08:07 overwrite css/roadhouse_mobile.css 
+2012-09-17 15:25:15 overwrite css/roadhouse_mobile.css 
+2012-09-17 16:04:14 overwrite css/roadhouse_mobile.css 
+2012-09-17 16:04:54 overwrite css/roadhouse_mobile.css 
+2012-09-17 16:05:14 overwrite css/roadhouse_mobile.css 
+2012-09-17 16:07:09 overwrite css/roadhouse_mobile.css 
+2012-09-18 09:43:14 overwrite css/roadhouse_mobile.css 
+2012-09-18 09:43:52 overwrite css/roadhouse_mobile.css 
+2012-09-18 10:24:41 overwrite css/roadhouse_mobile.css 
+2012-09-18 10:24:44 overwrite css/roadhouse_mobile.css 
+2012-09-18 10:43:05 overwrite css/roadhouse_mobile.css 
+2012-09-19 11:58:26 overwrite css/roadhouse_mobile.css 
+2012-09-19 11:58:52 overwrite css/roadhouse_mobile.css 
+2012-09-19 11:59:42 overwrite css/roadhouse_mobile.css 
+2012-09-19 11:59:48 overwrite css/roadhouse_mobile.css 
+2012-09-19 12:10:11 overwrite css/roadhouse_mobile.css 
+2012-09-19 12:11:08 overwrite css/roadhouse_mobile.css 
+2012-09-19 12:11:32 overwrite css/roadhouse_mobile.css 
+2012-09-19 13:24:56 overwrite css/roadhouse_mobile.css 
+2012-09-19 13:24:59 overwrite css/roadhouse_mobile.css 
+2012-09-19 13:38:43 overwrite css/roadhouse_mobile.css 
+2012-09-19 13:40:07 overwrite css/roadhouse_mobile.css 
+2012-09-19 13:40:16 overwrite css/roadhouse_mobile.css 
+2012-09-19 13:52:04 overwrite css/roadhouse_mobile.css 
+2012-09-19 13:53:01 overwrite css/roadhouse_mobile.css 
+2012-09-19 13:53:16 overwrite css/roadhouse_mobile.css 
+2012-09-19 14:32:05 identical css/roadhouse_mobile.css 
+2012-09-19 14:32:16 overwrite css/roadhouse_mobile.css 
+2012-09-19 15:35:48     error scss/roadhouse_mobile.scss (Line 191 of scss/partials/_page.scss: Invalid CSS after "		line-height": expected ";", was ":24px;")
+2012-09-19 15:35:48 overwrite css/roadhouse_mobile.css 
+2012-09-19 15:36:05 overwrite css/roadhouse_mobile.css 
+2012-09-19 15:36:47 overwrite css/roadhouse_mobile.css 
+2012-09-19 16:30:22 overwrite css/roadhouse_mobile.css 
+2012-09-19 16:47:31 overwrite css/roadhouse_mobile.css 
+2012-09-20 09:13:56 overwrite css/roadhouse_mobile.css 
+2012-09-20 09:14:08 overwrite css/roadhouse_mobile.css 
+2012-09-20 13:55:29 overwrite css/roadhouse_mobile.css 
+2012-09-20 13:57:30 overwrite css/roadhouse_mobile.css 

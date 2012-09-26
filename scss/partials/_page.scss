@@ -1,0 +1,582 @@
+
+// Home page
+
+html
+{
+	-webkit-text-size-adjust: none;
+}
+
+// Fixes the scrollbar gap on ihone3 but triggers other bug on webkit iphone
+.legacy-ios{
+	overflow-x: hidden;
+}
+
+body{
+	background: image-url("bg_black_linen.jpg") repeat;
+}
+
+.page{
+	display:none;
+}
+
+.current{
+	display:block;
+}
+
+@-webkit-keyframes collapsed{
+	0%{
+		top: 0;
+	}
+	100%{
+		top:-76px;
+	}
+}
+
+@-webkit-keyframes expanded{
+	0%{
+		top: -76px;
+	}
+	100%{
+		top:0px;
+	}
+}
+
+.navWrapper{
+	position: fixed;
+	top:-76px;
+	width:100%;
+	z-index: 999;
+	&.expanded{
+		top:0px;
+		-webkit-animation:expanded .5s 1;
+	}
+
+	&.collapsed{
+		top:-76px;
+		-webkit-animation:collapsed .5s 1;
+	}
+}
+
+#navToggler{
+	width:100%;
+}
+
+.page{
+	width:100%;
+	position: absolute;
+	top:76px;
+	left:0;
+}
+
+// Navigation
+
+nav[role="main"]{
+	position: relative;
+	top:0;
+	width:100%;
+	background: image-url("navBgColor.png") repeat;
+	border-bottom: 1px solid #606060;
+
+	ul{
+		@include clearfix;
+		margin-bottom:3px;
+	}
+
+	ul li{
+		background: image-url($img_m + "navSeparator_320.png") no-repeat right top;
+		float: left;
+		width:25%;
+		height: 76px;
+		list-style: none;
+
+		a{
+
+			color:$linkNavColor;
+			@include font-size(12);
+			height:26px;
+			padding-top:50px;
+			display:block;
+			margin:0 auto;
+			text-align:center;
+			font-weight:bold;
+		}
+
+		&:last-child{background: none}
+		&#home a{
+			background: image-url($img_m + "navIcn_home_320.png") no-repeat center 12px;
+			
+		}
+		&#solutions a{
+			background: image-url($img_m + "navIcn_Solutions_320.png") no-repeat center 12px;
+			
+		}
+		&#company a{
+			background: image-url($img_m + "navIcn_Company_320.png") no-repeat center 12px;
+			
+		}
+		&#work a{
+			background: image-url($img_m + "navIcn_work_320.png") no-repeat center 12px;
+			
+		}
+	}
+
+	@include retina{
+		ul li#home a{background: image-url($img_l + "navIcn_home_640.png") no-repeat center 12px; background-size: 38px 38px}
+		ul li#solutions a{background: image-url($img_l + "navIcn_Solutions_640.png") no-repeat center 12px;background-size: 38px 38px}
+		ul li#company a {background: image-url($img_l + "navIcn_Company_640.png") no-repeat center 12px;background-size: 38px 38px }
+		ul li#work a {background: image-url($img_l + "navIcn_work_640.png") no-repeat center 12px;background-size: 38px 38px}
+	}
+}
+
+@media all and (-webkit-transform-3d){
+
+	
+	.collapsed{
+		-webkit-animation-timing-function: ease-out;
+		-webkit-animation-duration: 350ms;
+		animation-timing-function: ease-out;
+		animation-duration: 350ms;
+	}
+	
+}
+
+#navHandle{
+		display:block;
+		position:absolute;
+		z-index: 1;
+		background: image-url("navHandle_320.png")no-repeat;
+		width:47px;
+		height:39px;
+		top: 79px;
+		@include retina{
+			background: image-url($img_l + "navHandle_640.png")no-repeat;
+			background-size: 47px 39px;
+		}
+	}
+
+section[role="logo"]{
+	height:48px;
+	background-color:#212121;
+	border-bottom: 1px solid #2C2C2C;
+	-webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 8px 6px -6px black;
+	        box-shadow: 0 8px 6px -6px black;
+	///@include single-box-shadow(#000, 0px, 5px, 15px, -5);
+	
+	#logo{
+		background: image-url($img_m + "rdhs_logo_320.png")no-repeat 0 0;
+		display:block;
+		width:173px;
+		height:23px;
+		margin:0 auto;
+		margin-top: 15px;
+
+		@include retina{
+			background: image-url($img_l + "rdhs_logo_640.png")no-repeat 0 0;
+			background-size:173px 23px;
+		}
+	}
+}
+
+// WORK SLIDER
+
+#workSliderWrapper{
+	width:100%;
+	padding-bottom: 10px;
+	overflow: hidden;
+
+	h4{
+		font-family:$basefont;
+		@include font-size(11);
+		font-weight:bold;
+		text-align: center;
+	}
+
+	#workSlider {
+		margin: 0 auto;
+	  	padding-bottom:20px;
+	  	width:270px;
+	  	padding: 0 ;
+	  	margin-bottom: 10px;
+	  	opacity:1;
+
+	  	li div, 
+	  	ul li, 
+	  	ul li img {
+		  margin:0 auto;
+		  font-weight:bold;
+		  color:#fff;
+		  font-size:20px;
+		  text-align:center;
+		  width: 250px;
+		  height:153px;
+		  display:block;
+		}
+
+		img{
+			@include box-shadow(0px 4px 8px #000)
+		}
+	}
+
+	#homeSliderBullets{
+		margin:0 auto;
+		width:114px;
+		margin-top:10px;
+		margin-bottom:10px;
+
+		.slideBullet {
+			float:left;
+			display: block;
+			list-style: none;
+			background: image-url("sprites/galleryBullet_off_320.png") no-repeat;
+			margin: 0 5px 0 5px;
+		    width: 9px;
+		    height: 9px;
+
+		    &.on {
+		    	background: image-url("sprites/galleryBullet_on_320.png") no-repeat;
+			    width: 9px;
+			    height: 9px;
+			}
+		}
+
+		@include retina{
+			
+			.slideBullet {
+				background: image-url("sprites/galleryBullet_off_640.png") no-repeat;
+			    background-size: 9px 9px;
+
+			    &.on {
+			    	background: image-url("sprites/galleryBullet_on_640.png") no-repeat;
+				    background-size: 9px 9px;
+				}
+			}
+		}
+
+		
+	}
+}
+
+.sBorderBot, .sBorderTop{
+	clear:both;
+	margin:0;
+	height:4px;
+	border: 0;
+	background-color: #434343;
+	border-top:1px solid #818181;
+}
+
+.sBorderTop{
+	@include box-shadow(black -4px 0px 10px);
+}
+
+// SERVICE SLIDER
+
+#serviceSliderWrapper{
+	background:image-url("m/serviceSlider_tile.png") repeat;
+	box-shadow:inset 0px 5px 5px rgba(0,0,0,.5);
+	border-top:2px solid #000;
+	border-bottom:2px solid #000;
+	width:100%;
+	overflow: hidden;
+
+	@include retina{
+		background:image-url("l/serviceSlider_tile_640.png") repeat;
+		background-size: 12px 5.5px;
+	}
+
+	#serviceSliderWrapperInner{
+		box-shadow:inset 0px -5px 5px rgba(0,0,0,.5); 
+	}
+
+	#shadleft{
+		position:absolute;
+		display:block;
+		z-index: 1;
+		height:107px;
+		width:40px;
+		position:absolute;
+		background:transparent image-url("l/shadIEMobile_left.png") repeat-y left 0;
+		background-size: 40px 10px;
+	}
+
+	#shadright{
+		position:absolute;
+		display: block;
+		z-index: 1;
+		height:107px;
+		width:40px;
+		right:0;
+		position:absolute;
+		background:transparent image-url("l/shadIEMobile.png") repeat-y right 0;
+		background-size: 40px 10px;
+	}
+
+	#serviceSlider {
+		margin: 0 auto;
+	  	width:106px;
+	  	padding: 0 ;
+	  	opacity:1;
+
+		ul li {
+		  margin:0 auto;
+		  font-weight:bold;
+		  color:#fff;
+		  font-size:20px;
+		  text-align:center;
+		  width: 108px;
+		  height:105px;
+		  display:block;
+		  border-left:1px solid #000;
+		  border-right:1px solid #000;
+
+			&:first-child{
+				border-left:2px solid #000;
+			}
+			&:last-child{
+				border-right:2px solid #000;
+			}
+			img{
+				width: 110px;
+				height:105px;
+				margin:0 auto;
+			}
+		}
+	}
+}	
+
+html.cssgradients #serviceSliderWrapper{
+	#shadleft{
+		@include filter-gradient(#000000, #000000, horizontal);
+		@include background-image(linear-gradient(left, rgba(0,0,0,1) 0%,rgba(0,0,0,0) 100%));
+	}
+
+	#shadright{
+		@include filter-gradient(#000000, #000000, horizontal);
+		@include background-image(linear-gradient(left, rgba(0,0,0,0) 0%,rgba(0,0,0,1) 100%));
+	}
+}
+
+#contentWrapper{
+	margin-top:35px;
+	width:100%;
+	article{
+
+		header{	
+			height:11px;
+			position:relative;
+			border-top:1px solid #4b4b4b;
+			border-bottom:1px solid #000;
+			background-color: rgb(61,61,61);
+			@include filter-gradient(#3d3d3d, #343434, vertical);
+			@include background-image(linear-gradient(top,  rgba(61,61,61,1) 0%,rgba(52,52,52,1) 100%));
+
+			.ribbon{
+				background-color: transparent;
+				background:image-url("m/ribbon_320.png") no-repeat;
+				width:47px;
+				height:83px;
+				padding-top:14px;
+				position:absolute;
+				right:20px;
+				top:-5px;
+
+				.month{
+					@include font-size(15);
+					display:block;
+					text-align:center;
+					color: #7f0606;
+					text-shadow: 0px 1px 1px #b04141;
+					width: 45px;
+				}
+
+				.day{
+					@include font-size(27);
+					color: #7f0606;
+					text-shadow: 0px 1px 1px #b04141;
+					display:block;
+					text-align:center;
+					width: 44px;
+				}
+
+				@include retina{
+					background:image-url("l/ribbon_640.png") no-repeat;
+					background-size: 47px 83px;
+				}
+			}
+		}
+
+		section{
+
+			min-height: 80px;
+			padding: 10px 90px 20px 20px; 
+			border-top:1px solid #393939;
+			background-color: rgb(42,42,42);
+			@include filter-gradient(#2a2a2a, #202020, vertical);
+			@include background-image(linear-gradient(top,  rgba(42,42,42,1) 0%,rgba(32,32,32,1) 100%));
+
+			h1{
+				line-height: 1.3em;
+				margin-bottom:10px;
+				@include font-size(11);
+				color: white;
+				text-shadow: 0px -1px 2px black;
+			}
+
+			p{
+				line-height: 1.4em;
+				@include font-size(11);
+				color: #999;
+				text-shadow: 0px -1px 1px black;
+			}
+		}
+	}
+
+	article:last-child{
+
+		section{
+			background-color: rgb(42,42,42);
+			@include filter-gradient(#2a2a2a, #121212, vertical);
+			@include background-image(linear-gradient(top,  rgba(42,42,42,1) 0%,rgba(18,18,18,1) 100%));
+			@include box-shadow(black -4px 0px 10px);
+		}
+	}
+}
+
+.map{
+	margin:0 auto;
+	margin-top:30px;
+	margin-bottom:30px;
+	padding: 0 10px 0 10px;
+	img{
+		width:100%;
+	}
+}
+		
+.vcard{
+	margin:30px 10px 30px 10px;
+
+	h1{
+		line-height: 1.3em;
+		margin-bottom:10px;
+		@include font-size(11);
+		color: white;
+		text-shadow: 0px -1px 2px black;
+	}
+
+	hr{
+		border: none;
+		height:1px;
+		background-color:#333;
+		clear:both;
+	}
+
+	.url{
+		color: #999;
+	}
+
+	.email, .tel{
+		cursor: pointer;
+		float:left;
+		line-height: 29px;
+		margin-bottom:10px;
+	}
+
+	.value{
+		margin-left:10px;
+		color:#f32f2f;
+	}
+
+	.adr{
+		@include font-size(11);
+		line-height: 1.3em;
+		color: #999;
+		text-shadow: 0px -1px 1px black;
+		margin-bottom: 20px;
+	}
+
+	.links{
+		@include font-size(11);
+		line-height: 1.3em;
+		color:#f32f2f;
+	}
+
+	.fax{
+		color:#999;
+	}
+
+	.contactIcns {
+	    background: image-url("sprites/sprite_contactIcns.png") no-repeat;
+	    display:block;
+	    float:right;
+	    cursor: pointer;
+	}
+
+	.icn_email {
+		width: 28px;
+	    height: 29px;
+	    background-position: -39px -0px;
+	    @include retina{
+ 			background: image-url("l/icn_email_640.png") no-repeat;
+ 			background-size: 28px 29px;
+	    }
+	}
+
+	.icn_phone {
+	    width: 28px;
+	    height: 29px;
+	    background-position: -0px -0px;
+	    @include retina{
+	    	background: image-url("l/icn_phone_640.png") no-repeat;
+ 			background-size: 28px 29px;
+	    }
+	}
+}
+
+#footerContainer{
+	text-align:center;
+
+width:100%;
+position:fixed;
+bottom:0;
+}
+
+footer{
+	
+	background-color: rgb(54,54,54);
+	@include filter-gradient(#363636, #363636, horizontal);
+	@include background-image(linear-gradient(left,  rgba(54,54,54,1) 0%,rgba(109,109,109,1) 45%,rgba(109,109,109,1) 48%,rgba(109,109,109,1) 51%,rgba(109,109,109,1) 54%,rgba(109,109,109,1) 57%,rgba(54,54,54,1) 100%));
+	
+	.clientSliderWrapper{
+		width:100%;
+		overflow: hidden;
+
+		#clientSlider {
+			margin: 0 auto;
+		  	width:106px;
+		  	padding: 0 ;
+
+			ul li {
+			  margin:0 auto;
+			  font-weight:bold;
+			  color:#fff;
+			  font-size:20px;
+			  text-align:center;
+			  width: 108px;
+			  height:105px;
+			  display:block;
+				
+				img{
+					
+					height:105px;
+					margin:0 auto;
+				}
+			}
+		}
+	}
+}
+
+.spinner{
+	position: absolute;
+	top: 46%;
+}
